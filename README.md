@@ -9,7 +9,7 @@ The "search-engine-optimization" link was fixed by making it into an ID and the 
 In doing this I learned what to look for when working on links and how to condense a css file properly. 
 
 The page url is:
-http://127.0.0.1:5500/index.html
+https://ctvb.github.io/horseaon-refactor/#social-media-marketing
 
 The following link contains screenshots of the webpage:
 [label](Horiseon%20Refactor.pdf)
